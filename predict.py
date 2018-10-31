@@ -2,7 +2,7 @@ from darkflow.net.build import TFNet
 import cv2
 import sys
 import numpy as np
-import pytesseract
+import pytesseract #google api used for ocr extraction
 from PIL import Image
 
 
