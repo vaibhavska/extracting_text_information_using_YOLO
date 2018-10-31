@@ -4,7 +4,7 @@ import sys
 import numpy as np
 import pytesseract
 from PIL import Image
-
+#PIL - pillow library
 
 options = {"model": "cfg/tiny-yolo-voc1.cfg", "load": "bin/tiny-yolo-voc.weights", "threshold": 0.01, "load": 21000}
 
