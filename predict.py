@@ -1,7 +1,7 @@
 from darkflow.net.build import TFNet
 import cv2
 import sys
-import numpy as np
+import numpy as np#basic ml library
 import pytesseract
 from PIL import Image
 
